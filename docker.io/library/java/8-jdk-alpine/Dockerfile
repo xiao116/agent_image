@@ -1,1 +1,0 @@
-FROM docker.io/library/java:8-jdk-alpine
